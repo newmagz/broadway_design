@@ -3,12 +3,13 @@ body{
   text-align:center;
 }
 .buildingbackground{
-  background-image:url("resources/images/flatironbuilding.png");
+  background-image:url("/broadway_design/resources/images/flatironbuilding.png");
   color:white;
 }
 .buildingbackground a{
   font-size:18px;
   text-decoration: underline;
+  color:white;
 }
 .buildingbackground h2{
   font-size:23px;
@@ -28,8 +29,11 @@ h3{
   font-weight:bold;
   font-size:23px;
 }
-#footer, #footer p{
+#footer{
   background-color:dimgray;
+  color:white;
+}
+#footer a, #footer p{
   color:white;
 }
 span.copyright{
