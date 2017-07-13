@@ -3,7 +3,7 @@ body{
   text-align:center;
 }
 .buildingbackground{
-  background-image:url(/resources/images/flatironbuilding.png);
+  background-image:url("resources/images/flatironbuilding.png");
   color:white;
 }
 .buildingbackground a{
