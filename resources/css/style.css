@@ -4,6 +4,7 @@ body{
 }
 .buildingbackground{
   background-image:url("/broadway_design/resources/images/flatironbuilding.png");
+  background-repeat:no-repeat;
   color:white;
 }
 .buildingbackground a{
